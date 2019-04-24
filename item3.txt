@@ -1,1 +1,6 @@
 Name the difference between agile & v-model. (Please specify some roles and cycles for these)
+
+V-Model is a diagrammatic representation of a systems or software development life cycle. It summarises the main verification and validation preparation steps to be taken in conjunction with the actual implementation of the system or software.
+The left side of the V in the diagram represents the concept, requirements creation, architecture design, and detailed low level design. The right side of the V represents the integration of the parts of the system, verification, validation and operational maintenance of the system. In this model the verification is done against the technical terms and requirements and the validation is done against the usability and user experience.
+
+Agile describes an approach to software development under which requirements and solution evolve through the collaborative effort of self-organizing and cross-functional teams and their customer/end users.

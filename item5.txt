@@ -1,3 +1,15 @@
 In the images folder you have a login form. Create Test Cases for the given form.
 
 Please state the testing types(functional, non-functional, black box, white box, design technique) for each TC created.
+
+test case no.1 functional testing
+-check sing up functionality
+-check the user is allowed to sign up using valid data
+-steps: launch the app with given link ,enter valid email,username and password in their fields, click sing up button
+-expected result: login successfully
+-actual result : login successfully
+-pass/fail : pass
+
+test case no.2 non-funcrtional testing
+-sign in with a valid email and password
+-application load time should not be more than 5 seconds up to 1000 users accessing it at the same time

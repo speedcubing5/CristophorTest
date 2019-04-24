@@ -1,1 +1,15 @@
 Consider that you have found a defect in the form for the previous exercise. Create a bug report for it.
+
+Reporter: Iftime Iosif
+Date 24.10.2019
+Bug id :C3400
+URL https://diprella.com
+Summary : signing up with valid username,email and password throws errors
+Platform : Mac os 10.14
+Physical memory : 3000/4096
+Free memory space : 50 GB
+Browser : Chrome 10.0.2
+Priority : P1
+Severity : Critical
+Description : enter valid username, email and password and then click sign up button
+Number of repeating the test : 3
